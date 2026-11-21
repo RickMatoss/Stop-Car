@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 110" role="img" aria-labelledby="title desc">
+  <title id="title">STOP CAR</title>
+  <desc id="desc">Logotipo da STOP CAR em laranja e branco</desc>
+  <g transform="skewX(-8)">
+    <text x="5" y="82" font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif" font-size="82" font-weight="900" letter-spacing="-5" stroke="#050505" stroke-width="12" stroke-linejoin="round" paint-order="stroke fill" fill="#f34e16">STOP</text>
+    <text x="176" y="82" font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif" font-size="72" font-weight="900" letter-spacing="-4" stroke="#050505" stroke-width="11" stroke-linejoin="round" paint-order="stroke fill" fill="#f7f7f7">CAR</text>
+  </g>
+</svg>
